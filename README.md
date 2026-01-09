@@ -37,7 +37,7 @@
 
 ## 🎮 Commands Showcase
 <p align="center">
-  <img src="assets/commands_showcase.png" alt="twxerzzWare Commands Showcase" width="600">
+  <img width="549" height="648" alt="commands_showcase" src="https://github.com/user-attachments/assets/a0ccb429-736a-4cf7-b7aa-8236aad0d782" />
 </p>
 
 ---

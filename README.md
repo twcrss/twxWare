@@ -37,7 +37,17 @@
 
 ## 🎮 Commands Showcase
 <p align="center">
-  <img width="549" height="648" alt="commands_showcase" src="https://github.com/user-attachments/assets/a0ccb429-736a-4cf7-b7aa-8236aad0d782" />
+  <img width="400" alt="commands_showcase" src="https://github.com/user-attachments/assets/a0ccb429-736a-4cf7-b7aa-8236aad0d782" />
+</p>
+
+---
+
+## 🎥 Showcase Video
+<p align="center">
+  <a href="https://streamable.com/cdbqk9">
+    <img src="https://github.com/user-attachments/assets/e6255c6b-cd7c-44ca-b000-58f024e307b0" alt="Watch the Showcase" width="200"><br>
+    <b>Click to Watch the Showcase Video</b>
+  </a>
 </p>
 
 ---
@@ -74,13 +84,3 @@ The project includes a dedicated **Builder** (EXE and BAT versions) that allows 
 1. Run `builder.bat` or `builder.exe`.
 2. Provide your Bot Token and customize the settings (Icon, Fake Error, etc.).
 3. The builder will generate `kk_built.exe`.
-
-### 3. Deploy & Control
-1. Run the `kk_built.exe` on the target machine.
-2. The machine will automatically create a private channel in your Discord server named after its hostname.
-3. Use `!help` in that channel to see all available commands.
-
----
-
-## ⚠️ Disclaimer
-This tool is for educational purposes and authorized security testing only. Using this tool on machines you do not own or have explicit permission to test is illegal and unethical. The developer is not responsible for any misuse.

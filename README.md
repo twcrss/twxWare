@@ -35,6 +35,13 @@
 
 ---
 
+## 🎮 Commands Showcase
+<p align="center">
+  <img src="assets/commands_showcase.png" alt="twxerzzWare Commands Showcase" width="600">
+</p>
+
+---
+
 ## 🛠 Builder Features
 The project includes a dedicated **Builder** (EXE and BAT versions) that allows you to:
 - **Configure Bot Token**: Bind the client to your Discord bot.
